@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Define the navigation items array -->
+    <string-array name="navigation_items">
+        <item>Home</item>
+        <item>Profile</item>
+        <item>Settings</item>
+        <item>Logout</item>
+    </string-array>
+</resources>

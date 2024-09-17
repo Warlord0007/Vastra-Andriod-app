@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Vastra</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login_title">Login</string>
+    <string name="logout_title">Logout</string>
+    <string name="cancel">Cancel</string>
+    <string name="login">Login</string>
+    <string name="login_error">Please enter username and password</string>
+    <string name="login_success">Login successful</string>
+    <string name="register">Register</string>
+    <string name="full_name">Full Name</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone Number</string>
+    <string name="product_image_desc">Product Image</string>
+    <string name="similar_product_image">Recommendation</string>
+    <string name="product_image">Product Image</string> <!-- Added -->
+    <string name="similar_products">Similar Products</string> <!-- Added -->
+    <string name="reenter_password">Re-enter Password</string>
+    <string name="register_success">Registration successful</string>
+    <string name="register_error">Registration failed. Please try again.</string>
+    <string name="fill_all_fields">Please fill out all fields</string>
+    <string name="password_mismatch">Passwords do not match</string>
+    <string name="registration_failed">Registration failed</string>
+    <string name="user_desc">Description for user</string>
+    <string name="cart_desc">Description for cart</string>
+    <string name="search_desc">Description for search</string>
+    <string name="menu_desc">Description for menu</string>
+    <string name="logo_desc">Description for logo</string>
+    <string name="footer_text">We provide many clothes for people</string>
+    <string name="copyright">Copyright 2023- Vastra</string>
+    <string-array name="navigation_entries">
+        <item>Home</item>
+        <item>Products</item>
+        <item>Login</item>
+        <item>About us</item>
+    </string-array>
+    <string name="fitness_image_desc">Description for fitness image</string>
+    <string name="product1_desc">Description for product 1</string>
+</resources>
